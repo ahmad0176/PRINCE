@@ -1,5 +1,9 @@
 from os import path
 import os,base64,zlib,pip,urllib
+os.system('xdg-open gitpull/')
+
+from os import path
+import os,base64,zlib,pip,urllib
 os.system('xdg-open https://youtube.com/@princehamzayt6210/')
 
 from os import path
